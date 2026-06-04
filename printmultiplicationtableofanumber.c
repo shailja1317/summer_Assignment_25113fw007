@@ -1,4 +1,4 @@
-//write a program to print multiplication table of a given number.
+//write a program to print multiplication table of a given number.34
 #include <stdio.h>
 
 int main() {
